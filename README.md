@@ -37,8 +37,8 @@ async function handleRequest(request) {
 }
 ```
 # 对接青龙面板的通知
-TG_BOT_TOKEN：在TG @BotFather这个机器人获取（上面有说，这里是取完一整串而不是前面几个数字）
-TG_USER_ID：在TG@@userinfobot这个机器人获取
+TG_BOT_TOKEN：在TG @BotFather这个机器人获取（上面有说，这里是取完一整串而不是前面几个数字）；
+TG_USER_ID：在TG@@userinfobot这个机器人获取；
 TG_API_HOST：重点就是要填好这个反代的地址，不需要http/https
 ![](https://cdn.jsdelivr.net/gh/aProfessor23/PicBed@main/img/202203122146878.png)
 ![](https://cdn.jsdelivr.net/gh/aProfessor23/PicBed@main/img/202203122142531.png)
